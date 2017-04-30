@@ -1,5 +1,5 @@
 # phantominvites
-Script to automate sending of Facebook page invites using PhantomJS.
+Script to automate sending of Facebook page invites using Python and Mechanize/Selenium.
 
 ### Usage
 `python phantominvites.py [Facebook Page ID] [Account List] [Max Threads]`
